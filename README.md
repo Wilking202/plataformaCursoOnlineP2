@@ -17,7 +17,7 @@ O sistema gerencia matrículas de alunos em cursos online 100% em memória RAM, 
 
 ## Arquitetura das Classes
 
-O projeto está organizado em pacotes conforme as boas práticas e restrições definidas nos materiais `POO_07` a `POO_10`:
+O projeto está organizado em pacotes conforme as boas práticas e restrições definidas nos materiais vistos em sala de aula:
 
 ```text
 plataformaCursoOnlineP2/
