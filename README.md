@@ -38,10 +38,6 @@ plataformaCursoOnlineP2/
 
 ## Histórico de Prompts de IA Utilizados
 
-Em conformidade com as diretrizes de transparência do trabalho, registramos abaixo os prompts utilizados como apoio durante a estruturação e refinamento do projeto:
-
-## Histórico de Prompts de IA Utilizados
-
 Em conformidade com as diretrizes de transparência do trabalho, registramos abaixo os prompts utilizados como apoio durante a estruturação, refinamento e documentação do projeto:
 
 ### Prompt 1 — Modelagem das Classes, Interface e Exceção Customizada
